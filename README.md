@@ -1,16 +1,29 @@
-### Hi there 👋
+### Olá Pessoal 👋 
 
-<!--
-**Dev-Cabral/Dev-Cabral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sobre mim
+- 🌱 Atualmente estou me formando Engenharia de Software (faculdade); E Profissão em FullStack Java - EBAC
+- 👯 Procuro atuar na área da tecnologia e mergulhar nos conhecimentos e inovações na área de TI.
+- 📫 Adquirindo experiência em HTML. CSS, JS; VueJS, React, em criações de páginas web com CSS responsivo, além de utilizar APIs para requisições, Ajax, JQuery;
+- Pré Processadores como: Gulp, Grunt, LESS E SASS e etc.
+- 😄 Vá até em contato, e vamos conversar?
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###### Detalhes
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Cabral&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+###### Projeto
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dev-Cabral&repo=TikTok-Clone-Projeto&theme=dark)
+
+
+###### Linguagens
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Cabral&layout=compact)
+
+
+###### Contato
+<a href="https://instagram.com/kbrall_pmla" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ronario-dev-java//)](https://www.linkedin.com/in/ronario-dev-java//)
+
+###### Visite o Projeto
+
+https://tiktok---jornada-dev-4937e.web.app/
